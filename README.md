@@ -2,8 +2,11 @@
 Internet Access Analysis for City of Madison
 
 City Data Team Lead: E. Anderson, Finance
+
 Agency SME(s): Sarah Edgerton, IT
+
 External Lead: Tyler Caraza-Harter
+
 Team Members: Zhuocheng Sun; Yueyu Wang
 
 When the COVID-19 pandemic hit Madison, classes at the Madison Metropolitan School District became fully online. Students without reliable home access to internet are less able to participate in their classes, and are at risk of falling behind their peers.
