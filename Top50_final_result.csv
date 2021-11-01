@@ -3,11 +3,11 @@ Address,#Bedrooms,#K12Est,Est K12 per bedroom
 2002 Elka Ln,144,63,0.438
 501 Northport Dr,256,58,0.227
 57 Northridge Ter,96,51,0.531
-210-236 & 301-349 & 401-448 & 501-544 East Bluff,441,44,0.1
+210-236 & 301-349 & 401-448 & 501-544 East Bluff,441,44,0.100
 2501 City View Dr,130,40,0.308
 201 N Walbridge Ave,220,40,0.182
 3502 Straubel St,96,39,0.406
-302 Parkwood Ln,544,38,0.07
+302 Parkwood Ln,544,38,0.070
 2801 Dryden Dr,80,35,0.438
 4733 Crescent Rd,72,34,0.472
 1124-1148 (every four) Morraine View Dr,649,32,0.049
@@ -15,15 +15,15 @@ Address,#Bedrooms,#K12Est,Est K12 per bedroom
 7601 Radcliffe Dr,128,30,0.234
 415 Moorland Rd,280,29,0.104
 1661 Lake Point Dr,216,29,0.134
-4629 Atticus Way,208,27,0.13
-1108 Moorland Rd,540,27,0.05
+4629 Atticus Way,208,27,0.130
+1108 Moorland Rd,540,27,0.050
 1502 Troy Dr,256,26,0.102
 302 Kent Ln,244,25,0.102
 2201 Cypress Way,144,25,0.174
 2301 Cypress Way,144,25,0.174
 702 Bear Claw Way,392,24,0.061
 420 N Segoe Rd Unit EXP,288,24,0.083
-2809 Curry Pkwy,476,24,0.05
+2809 Curry Pkwy,476,24,0.050
 8002 Starr Grass Dr,372,24,0.065
 6733 Schroeder Rd,224,24,0.107
 5806 Raymond Rd,180,23,0.128
@@ -38,14 +38,66 @@ Address,#Bedrooms,#K12Est,Est K12 per bedroom
 6401-6409 (odd) & 6439-6443 (odd) Bridge Rd,151,19,0.126
 1002 N Pleasant View Rd,292,19,0.065
 801 N Thompson Dr,124,19,0.153
-4310-4336 (even) Melody Ln & 2402-2454 (even) Independence Ln,638,19,0.03
+4310-4336 (even) Melody Ln & 2402-2454 (even) Independence Ln,638,19,0.030
 9001 & 9002 & 9023 & 9045 & 9067 Hawks Reserve Ln & 1802-1806 (even) Maplecrest Dr & 9012-9020 (every four) Dominus Ln & 9002 & 9010-9030 Royal Oaks Cir & 1801 & 1825 Opus Ln,273,18,0.066
 2520 S Stoughton Rd,186,18,0.097
 1116 Catalpa Cir,12,17,1.417
-2720 McDivitt Rd,68,17,0.25
+2720 McDivitt Rd,68,17,0.250
 6801 Schroeder Rd,32,17,0.531
 1-147 (odd) Craig Ave,148,16,0.108
-4711 Jenewein Rd,64,16,0.25
-7502 Westward Way,64,16,0.25
+4711 Jenewein Rd,64,16,0.250
+7502 Westward Way,64,16,0.250
+2309-2345 (every four) Carling Dr Unit 4,81,15,0.185
+3702 Packers Ave,128,15,0.117
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Address,#Bedrooms,#K12Est,Est K12 per bedroom
+2330-2354 (every four) Allied Dr,66,22,0.333
+621-629 (odd) E Mifflin St,186,22,0.118
+1622 Fordem Ave,216,22,0.102
+1602 Fordem Ave,384,21,0.055
+5001 Sheboygan Ave,468,21,0.045
+1511 Wright St,48,19,0.396
+1501 Wright St,48,19,0.396
+6401-6409 (odd) & 6439-6443 (odd) Bridge Rd,151,19,0.126
+1002 N Pleasant View Rd,292,19,0.065
+801 N Thompson Dr,124,19,0.153
+4310-4336 (even) Melody Ln & 2402-2454 (even) Independence Ln,638,19,0.030
+9001 & 9002 & 9023 & 9045 & 9067 Hawks Reserve Ln & 1802-1806 (even) Maplecrest Dr & 9012-9020 (every four) Dominus Ln & 9002 & 9010-9030 Royal Oaks Cir & 1801 & 1825 Opus Ln,273,18,0.066
+2520 S Stoughton Rd,186,18,0.097
+1116 Catalpa Cir,12,17,1.417
+2720 McDivitt Rd,68,17,0.250
+6801 Schroeder Rd,32,17,0.531
+1-147 (odd) Craig Ave,148,16,0.108
+4711 Jenewein Rd,64,16,0.250
+7502 Westward Way,64,16,0.250
 2309-2345 (every four) Carling Dr Unit 4,81,15,0.185
 3702 Packers Ave,128,15,0.117
